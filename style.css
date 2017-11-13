@@ -1,0 +1,22 @@
+.quotebox{
+  font-family: 'Raleway', sans-serif;
+  border-radius: 15px;
+  box-shadow: 1px 2px 5px #ffffff;
+  background: #e3e3e3;
+  opacity: 0.8;
+  padding: 60px;
+}
+.quotes{
+  padding-bottom: 60px;
+}
+.quote{
+  font-size: 1.6em;
+  font-weight: 600;
+}
+.author{
+  font-size: 1.1em;
+  font-weight: 600;
+}
+button{
+  cursor: pointer;
+}
